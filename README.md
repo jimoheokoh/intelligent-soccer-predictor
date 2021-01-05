@@ -3,3 +3,6 @@ Intelligent football predictor based on teams past data. By considering the Goal
 
 See preview here
 http://spa.ekizone.com/football-predictor
+
+Developed with:
+Laravel + Angular JS
